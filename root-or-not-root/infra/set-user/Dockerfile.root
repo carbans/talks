@@ -1,0 +1,2 @@
+FROM alpine
+RUN apk add cowsay --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing/
